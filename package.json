@@ -1,0 +1,17 @@
+{
+  "name": "digital_ocean",
+  "version": "1.0.0",
+  "description": "a docker project for digital ocean",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Zhi Lin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.9"
+  }
+}
